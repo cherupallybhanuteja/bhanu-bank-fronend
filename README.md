@@ -2,6 +2,9 @@
 
 This is the frontend part of **The Bhanu's Bank** project. This project serves as a user interface for performing various banking operations such as deposits, withdrawals, fund transfers, and more.
 
+For the backend part of this project, visit the GitHub repository:
+[Bhanu's Bank - Backend](https://github.com/cherupallybhanuteja/bhanu-bank-backend)
+
 ## Features:
 - **Secure Transactions**: Your transactions are encrypted for security.
 - **Easy Fund Management**: Manage your funds with a simple interface.
